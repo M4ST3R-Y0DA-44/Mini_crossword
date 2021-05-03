@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Mini_Crossword", "TravailPratique2_536855494\Mini_Crossword.vbproj", "{73700F7E-F641-42EE-A0EB-0B0D39FADF03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73700F7E-F641-42EE-A0EB-0B0D39FADF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73700F7E-F641-42EE-A0EB-0B0D39FADF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73700F7E-F641-42EE-A0EB-0B0D39FADF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73700F7E-F641-42EE-A0EB-0B0D39FADF03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B96A8C5-2704-4C9A-AC52-294AC5CF5BB3}
+	EndGlobalSection
+EndGlobal
