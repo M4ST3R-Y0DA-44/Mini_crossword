@@ -1,5 +1,5 @@
 ﻿' Nom Programme: Jeux Buggle a deux joueur
-' Programme: Concu dans le cadre du TP2 du cour IFT-1700
+' Programme: Concu dans le cadre d'un travail pratique pour l'universite
 ' Programmeur: Yannick Munger 23 Mars 2021
 
 Option Explicit On
